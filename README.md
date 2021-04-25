@@ -1,6 +1,6 @@
-** ### Stock Price Prediction using Machine Learning and Conventional Time Series **
+** ###Stock Price Prediction using Machine Learning and Conventional Time Series **
 
-** ## Team Members: **
+** ##Team Members: **
 
 - Aayushi Dixit(I016)
 - Anunay Khetan(I028)
